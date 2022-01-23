@@ -13,9 +13,9 @@ COMMASPACE = ', '
 
 
 def main():
-    sender = 'meadow4979@gmail.com'
-    gmail_password = 'sairam123'
-    recipients = ['ria12rao@gmail.com']
+    sender = ''
+    gmail_password = ''
+    recipients = ['']
 
     # Create the enclosing (outer) message
     outer = MIMEMultipart()
